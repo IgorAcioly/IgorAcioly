@@ -4,6 +4,7 @@
 ## Sobre mim
 Estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
 Focado em evoluir, sempre busco desafios para ampliar meu conhecimento e experiência, portanto diariamente estou me especializando em tecnologias que viso aprimoramento com maior ênfase ao Back-End, como:
+
 ( Java | Spring Boot | SQL | Git / GitHub )
 
 Dedicado a sempre estudar, a rotina de aprendizado faz parte do meu dia a dia, por isso sempre busco desenvolver uma nova aplicação ou discutir projetos em grupo com meus colegas
