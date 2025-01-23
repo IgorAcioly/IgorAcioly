@@ -1,5 +1,5 @@
 # <*Hello word!*>
-# Eu sou o Igor, e  é um prazer te ter em meu perfil !
+# Eu sou o Igor, é um prazer vê-lo aqui !
 
 ## Sobre mim
 Estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
