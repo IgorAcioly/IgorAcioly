@@ -1,9 +1,9 @@
 # <*Hello word!*>
-# Eu sou o Igor, é um prazer vê-lo aqui 👋 ! 
+# É um prazer vê-lo aqui 👋 ! 
 
 ## Sobre mim
 Estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
-Focado em evoluir, sempre busco desafios para ampliar meu conhecimento e experiência, portanto diariamente estou me especializando em tecnologias que viso aprimoramento com maior ênfase ao Back-End, como:
+Meu nome é Igor, e estou focado em evoluir na área de desenvolvimento de software, sempre busco desafios para ampliar meu conhecimento e experiência, portanto diariamente estou me especializando em tecnologias que viso aprimoramento com maior ênfase ao Back-End, como:
 
 ( Java | Spring Boot | SQL | Git / GitHub )
 
