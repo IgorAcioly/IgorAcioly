@@ -26,8 +26,3 @@ Convido-o a nos conectar, será um prazer discutirmos ideias! :
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-## 🛠️ **Meus Projetos**
-## Ordenador de Arquivos com Lista de Dados em C
-- https://github.com/IgorAcioly/Ordenador-de-Dados-em-C
