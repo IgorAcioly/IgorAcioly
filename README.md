@@ -9,8 +9,6 @@ Meu nome é Igor, e estou focado em evoluir na área de desenvolvimento de softw
 
 Dedicado a sempre estudar, a rotina de aprendizado faz parte do meu dia a dia, por isso sempre busco desenvolver uma nova aplicação ou discutir projetos em grupo com meus colegas
 
-Busco a oportunidade de estágio para apresentar neste momento, minha dedicação e disposição á organização a qual tiver meu vínculo, apto á aprender e desenvolver o necessário para evolução e êxito da equipe.
-
 Convido-o a nos conectar, será um prazer discutirmos ideias! :
 
 ## Contatos
