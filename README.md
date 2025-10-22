@@ -3,9 +3,7 @@
 
 ## Sobre mim
 Estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
-Meu nome é Igor, e estou focado em evoluir na área de desenvolvimento de software, sempre busco desafios para ampliar meu conhecimento e experiência, portanto diariamente estou me especializando em tecnologias que viso aprimoramento com maior ênfase ao Back-End, como:
-
-( Java | Spring Boot | SQL | Git / GitHub )
+Meu nome é Igor, e estou focado em evoluir na área de desenvolvimento de software, sempre busco desafios para ampliar meu conhecimento e experiência, portanto diariamente estou me especializando em tecnologias que viso aprimoramento
 
 Dedicado a sempre estudar, a rotina de aprendizado faz parte do meu dia a dia, por isso sempre busco desenvolver uma nova aplicação ou discutir projetos em grupo com meus colegas
 
