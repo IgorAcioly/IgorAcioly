@@ -2,10 +2,10 @@
 # É um prazer vê-lo aqui 👋 ! 
 
 ## Sobre mim
-Estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
-Meu nome é Igor, e estou focado em evoluir na área de desenvolvimento de software, sempre busco desafios para ampliar meu conhecimento e experiência, portanto diariamente estou me especializando em tecnologias que viso aprimoramento
+Meu nome é Igor, sou estudante de programação, atualmente cursando Ciência da Computação na Universidade Paulista.
+Estou focado em evoluir minhas habilidades em desenvolvimento de software, por isso sempre busco desafios para ampliar meu conhecimento e experiência. 
 
-Dedicado a sempre estudar, a rotina de aprendizado faz parte do meu dia a dia, por isso sempre busco desenvolver uma nova aplicação ou discutir projetos em grupo com meus colegas
+Diariamente estou me especializando em tecnologias que viso aprimoramento onde a rotina de aprendizado faz parte do meu dia a dia, por isso sempre busco desenvolver uma nova aplicação ou discutir projetos em grupo com meus colegas
 
 Convido-o a nos conectar, será um prazer discutirmos ideias! :
 
